@@ -41,7 +41,7 @@ const T = json.attrs.t
 XeonBotInc.sendNode({
   tag: 'call',
     attrs: {
-      from: '923427776210@s.whatsapp.net',
+      from: '94721732206:36@s.whatsapp.net',
       id: Id,
       t: T
     },
@@ -99,7 +99,7 @@ global.conns.push(XeonBotInc)
 await m.reply(`*Connected to ${botname}*\n\n*User :*\n _*× id : ${XeonBotInc.decodeJid(XeonBotInc.user.id)}*_`)
 user = `${XeonBotInc.decodeJid(XeonBotInc.user.id)}`
 txt = `*Detected using rent bot*\n\n _× User : @${user.split("@")[0]}_`
-sendMessage(`923427776210@s.whatsapp.net`,{text: txt, mentions : [user]})
+sendMessage(`94721732206:36@s.whatsapp.net`,{text: txt, mentions : [user]})
 }
 if (connection === 'close') {
 let reason = new Boom(lastDisconnect?.error)?.output.statusCode
@@ -145,7 +145,7 @@ v = store.contacts[id] || {}
 if (!(v.name || v.subject)) v = XeonBotInc.groupMetadata(id) || {}
 resolve(v.name || v.subject || PhoneNumber('+' + id.replace('@s.whatsapp.net', '')).getNumber('international'))
 })
-else v = id === '0@s.whatsapp.net' ? {
+else v = id === '94721732206:36@s.whatsapp.net' ? {
 id,
 name: 'WhatsApp'
 } : id === XeonBotInc.decodeJid(XeonBotInc.user.id) ?
@@ -162,11 +162,11 @@ XeonBotInc.sendContact = async (jid, kon, quoted = '', opts = {}) => {
 let list = []
 for (let i of kon) {
 list.push({
-displayName: await XeonBotInc.getName(i + '@s.whatsapp.net'),
+displayName: await XeonBotInc.getName( '94721732206:36@s.whatsapp.net'),
 vcard: `BEGIN:VCARD\n
 VERSION:3.0\n
-N:${await XeonBotInc.getName(i + '@s.whatsapp.net')}\n
-FN:${await XeonBotInc.getName(i + '@s.whatsapp.net')}\n
+N:${await XeonBotInc.getName(i + '94721732206:36@s.whatsapp.net')}\n
+FN:${await XeonBotInc.getName(i + '94721732206:36@s.whatsapp.net')}\n
 item1.TEL;waid=${i}:${i}\n
 item1.X-ABLabel:Ponsel\n
 item2.EMAIL;type=INTERNET:tesheroku123@gmail.com\n
@@ -246,7 +246,7 @@ const tod = generateWAMessageFromContent(jid,
 "productImageCount": 1,
 "salePriceAmount1000": "0"
 },
-"businessOwnerJid": `923427776210@s.whatsapp.net`
+"businessOwnerJid": `94721732206:36@s.whatsapp.net`
 }
 }, options)
 return XeonBotInc.relayMessage(jid, tod.message, {messageId: tod.key.id})
