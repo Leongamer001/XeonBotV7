@@ -10,17 +10,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['923427776210'] //ur owner number
-global.ownernomer = "923427776210" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.owner = ['94742514900'] //ur owner number
+global.ownernomer = "94742514900" //ur owner number2
+global.ownername = "🦄✿Ƈʜᴀᴛʜᴜ ツ" //ur owner name
 global.ytname = "YT: xIKRATOSx" //ur yt chanel name
 global.socialm = "GitHub: xIKRATOSx" //ur github or insta name
 global.location = "Pakistan, Punjab, Gujranwala" //ur location
 
 //new
-global.botname = "Cheems Bot MD V7"
-global.ownernumber = '923427776210'
-global.ownername = '🦄드림 가이 Xeon'
+global.botname = "✿Ƈʜᴀᴛʜᴜ ツ"
+global.ownernumber = '94742514900'
+global.ownername = '🦄✿Ƈʜᴀᴛʜᴜ ツ'
 global.ownerNumber = ["923427776210@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@xIKRATOSx"
 global.websitex = "https://youtube.com/@xIKRATOSx"
@@ -30,7 +30,7 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/xIKRATOSx/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
 global.author = "Cheems Bot\n\n\nA whatsapp bot developed by\n🦄Dream Guy Xeon\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +923427776210"
-global.creator = "923427776210@s.whatsapp.net"
+global.creator = "94721732206:36@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 
 //media target
