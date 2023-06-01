@@ -12,15 +12,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['918982860407'] //ur owner number
 global.ownernomer = "918982860407" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.ownername = "leonbot" //ur owner name
 global.ytname = "YT: leongaming" //ur yt chanel name
 global.socialm = "GitHub: leongamer" //ur github or insta name
 global.location = "india" //ur location
 
 //new
-global.botname = "Cheems Bot MD V7"
+global.botname = "Cheemsbot"
 global.ownernumber = '918982860407'
-global.ownername = '🦄드림 가이 Xeon'
+global.ownername = 'leon'
 global.ownerNumber = ["918982860407@s.whatsapp.net"]
 global.ownerweb = "leongaming"
 global.websitex = "leongaming"
@@ -29,7 +29,7 @@ global.themeemoji = '👺'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/xIKRATOSx/CheemsBot-MD6' //script link
 global.packname = "Sticker By leon"
-global.author = "Cheems Bot\n\n\nA whatsapp bot developed by\n🦄Dream Guy Xeon\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +923427776210"
+global.author = "Cheems Bot\n\n\nA whatsapp bot developed by\n🦄Dream Guy Xeon\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +918982860407"
 global.creator = "918982860407@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 
