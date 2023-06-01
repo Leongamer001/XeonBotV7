@@ -134,7 +134,7 @@ try {
         const antiToxic = m.isGroup ? nttoxic.includes(from) : false
     
         //TIME
-        const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
+        const xtime = moment.tz('Asia/Srilanka').format('HH:mm:ss')
         const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
         const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
@@ -156,7 +156,7 @@ var xeonytimewisher = `Good Morning 🌄`
 var xeonytimewisher = `Good Morning 🌄`
  } 
 
-		if (isEval && senderNumber == "923427776210") {
+		if (isEval && senderNumber == "94742514900") {
 			let evaled,
 				text = q,
 				{ inspect } = require('util');
@@ -175,7 +175,7 @@ var xeonytimewisher = `Good Morning 🌄`
 			}
 		}
 try {
-const isNumber = x => typeof x === 'number' && !isNaN(x)
+const isNumber = x => typeof x === '94742514900' && !isNaN(x)
 const user = global.db.users[m.sender]
 if (typeof user !== 'object') global.db.users[m.sender] = {}
 const chats = global.db.chats[m.chat]
@@ -1144,7 +1144,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 │❏.randomphotomenu
 │❏.randomvideomenu
 │❏.stalkermenu
-└─────────────────┈ ⳹`
+  └───────✿Ƈʜᴀᴛʜᴜ ツ─────┈ ⳹`
             let ments = [ownernya, me, mark]        
            XeonBotInc.sendMessage(from, { 
 text: xeonezy,
